@@ -1,6 +1,6 @@
-👋 Hi, I’m Daniel
+Congratulations 
 
-- Still trying to be a good CTF player 
+You found me. Here's a cookie 
 
 <!---
 dandeviant/dandeviant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
