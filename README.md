@@ -1,10 +1,6 @@
 Congratulations 
 
-You found me. Here's a cookie 
-
-🍪🍪🍪🍪🍪🍪 \
-🍪🍪🍪🍪🍪🍪 \
-🍪🍪🍪🍪🍪🍪
+You found me. Here's a cookie 🍪
 
 <!---
 dandeviant/dandeviant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
